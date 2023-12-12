@@ -11,7 +11,7 @@ Links to Visualizations
 * [Interactive Geographic Map](https://dianaflores55d.github.io/cse-163-data-visualizations/GeoMap/geomap.html)
     > If you're unable to see the visualization via this link, follow the guide below or scroll to the bottom to see a demo.
 
-Guide to using [Brackets](https://brackets.io/) to see and interact with visualizations locally
+Using [Brackets](https://brackets.io/) to see and interact with visualizations locally
 -----------------------------------------------------------------------------------------------
 1. Install [Brackets](https://brackets.io/).
 2. After cloning the repo, in the project root, open the Brackets app and open the cloned repo folder.
