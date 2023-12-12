@@ -1,4 +1,4 @@
-![GeoMap1](https://github.com/dianaflores55d/cse-163-data-visualizations/assets/19867603/8d46427b-b8e1-4582-9792-2cedfcf0311c)<h1 align="center">
+<h1 align="center">
     Data Visualizations
 </h1>
 
