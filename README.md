@@ -13,6 +13,7 @@ Links to Visualizations
 
 Guide to using [Brackets](https://brackets.io/) to see and interact with visualizations locally
 -------------------------------------------------------------------------
-1. After cloning the repo, in the project root, open the Brackets app and open the cloned repo folder.
-2. On the upper left side, click on the HTML file inside the desired visualization. On the upper right side, click on the lightning bolt symbol. The visualization should appear in a new tab!
+1. Install [Brackets](https://brackets.io/).
+2. After cloning the repo, in the project root, open the Brackets app and open the cloned repo folder.
+3. On the upper left side, click on the HTML file inside the desired visualization. On the upper right side, click on the lightning bolt symbol. The visualization should appear in a new tab!
 ![GeoMap1](https://github.com/dianaflores55d/cse-163-data-visualizations/assets/19867603/eb445d3a-0c3d-49c3-8316-9ea3bc596bb9) 
