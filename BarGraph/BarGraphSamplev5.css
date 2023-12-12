@@ -1,0 +1,28 @@
+/*-----------------------------------------------------------------------------
+Diana Flores
+CSE 163
+Assignment 3: Creating a Bar Graph
+File: BarGraphSamplev5.css
+-----------------------------------------------------------------------------*/
+body{
+    background-color: #E6E6E6;
+}
+
+p{
+    text-indent: 40px;
+}
+
+/* axis path refers to the x- & y-axis lines that that are connected to ticks
+   axis line refers to the tick lines 
+   axis text refers to the text/ label along each tick line*/ 
+.axis path,
+.axis line {
+    shape-rendering: crispEdges;
+    stroke: black;
+}
+
+.axis text {
+    font: Times;
+    font-size: 12px;
+    font-weight: bold;
+}

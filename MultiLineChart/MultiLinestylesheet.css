@@ -1,0 +1,38 @@
+/*-----------------------------------------------------------------------------
+Diana Flores
+CSE 163
+Assignment 4: Creating an Animated Multi-Line Chart
+File: MultiLinestylesheet.css
+-----------------------------------------------------------------------------*/
+body{
+    background-color: #FFFEFF;
+}
+
+p{
+    text-indent: 40px;
+}
+
+/* axis path refers to the x- & y-axis lines that that are connected to ticks
+   axis line refers to the tick lines 
+   axis text refers to the text/ label along each tick line*/ 
+.axis path,
+.axis line {
+    shape-rendering: crispEdges;
+    stroke: black;
+}
+
+.axis text {
+    font: Times;
+    font-size: 12px;
+}
+
+/* refers to the style attributes of the grid lines on our multi-line graph*/
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}
