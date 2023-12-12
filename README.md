@@ -1,4 +1,4 @@
-<h1 align="center">
+![GeoMap1](https://github.com/dianaflores55d/cse-163-data-visualizations/assets/19867603/8d46427b-b8e1-4582-9792-2cedfcf0311c)<h1 align="center">
     Data Visualizations
 </h1>
 
@@ -9,3 +9,10 @@ Links to Visualizations
 * [Animated Bar Graph](https://dianaflores55d.github.io/cse-163-data-visualizations/BarGraph/BarGraphSamplev5.html)
 * [Animated Multi-Line Chart](https://dianaflores55d.github.io/cse-163-data-visualizations/MultiLineChart/MultiLineindex.html)
 * [Interactive Geographic Map](https://dianaflores55d.github.io/cse-163-data-visualizations/GeoMap/geomap.html)
+    > If you're unable to see the visualization via this link, follow the instructions below.
+
+Guide to using [Brackets](https://brackets.io/) to see and interact with visualizations locally
+-------------------------------------------------------------------------
+1. After cloning the repo, in the project root, open the Brackets app and open the cloned repo folder.
+2. On the upper left side, click on the HTML file inside the desired visualization. On the upper right side, click on the lightning bolt symbol. The visualization should appear in a new tab!
+![GeoMap1](https://github.com/dianaflores55d/cse-163-data-visualizations/assets/19867603/eb445d3a-0c3d-49c3-8316-9ea3bc596bb9) 
