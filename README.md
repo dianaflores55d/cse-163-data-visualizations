@@ -2,7 +2,7 @@
     Data Visualizations
 </h1>
 
-This collection showcases a range of engaging data visualization projects from my UC Santa Cruz course, CSE 163: Data Programming for Visualization. Using D3.js, I created an animated bar graph, a dynamic multi-line chart, and an interactive geographic map.
+This collection showcases a range of engaging data visualization projects from my UC Santa Cruz course, CSE 163 (Data Programming for Visualization). Using D3.js, I created an animated bar graph, a dynamic multi-line chart, and an interactive geographic map.
 
 Links to Visualizations
 ------------------------
