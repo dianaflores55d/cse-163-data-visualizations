@@ -7,7 +7,7 @@ This collection showcases a range of engaging data visualization projects from m
 Links to Visualizations
 ------------------------
 * [Animated Bar Graph](https://dianaflores55d.github.io/cse-163-data-visualizations/BarGraph/BarGraphSamplev5.html)
-* [Animated Multi-Line Chart](https://dianaflores55d.github.io/cse-163-data-visualizations/MultiLineChart/MultiLineindex.html)
+* [Dynamic Multi-Line Chart](https://dianaflores55d.github.io/cse-163-data-visualizations/MultiLineChart/MultiLineindex.html)
 * [Interactive Geographic Map](https://dianaflores55d.github.io/cse-163-data-visualizations/GeoMap/geomap.html)
     > If you're unable to see the visualization via this link, follow the guide below or scroll to the bottom to see a demo.
 
